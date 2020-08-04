@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blog",
+    "prod_uri": "mysql://root:@localhost/blog",
+    "fb_url": "https://facebook.com/blogzone",
+    "git_url": "https://github.com/blogzone",
+    "twt_url": "https://twitter.com/blogzone",
+    "blog_name": "Blog Zone",
+    "tag_line": "A Place to Share your Ideas",
+    "gmail_user": "gmail_username",
+    "gmail_password": "gmail_password",
+    "about_Text": "This is a random text for the about page",
+    "no_of_posts": 1,
+    "login_img": "login.svg",
+    "admin_username": "username",
+    "admin_password": "password",
+    "upload_location": "C:\\Users\\Ravi Gupta\\PycharmProjects\\Blogging Site\\static"
+  }
+}
